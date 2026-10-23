@@ -2,7 +2,7 @@ const projects = [
   {
     title: "SIERA",
     desc: "Sistem informasi pengajuan surat akademik berbasis web untuk Program Studi Informatika dengan alur verifikasi bertingkat (Mahasiswa, Admin TU, Kaprodi), pelacakan status, notifikasi, serta laporan dalam format PDF.",
-    img: "/assets/dist/Portfolio/SIERA.png",
+    img: "/assets/ortfolio/SIERA.png",
     tech: ["Laravel", "Tailwind CSS", "MySQL", "DomPDF"],
     role: "",
     repo: "https://github.com/Bayu75/Sistem-Informasi-E-Surat-Informatika",
@@ -11,7 +11,7 @@ const projects = [
   {
     title: "KUBI",
     desc: "Platform kursus hobi berbasis web untuk menjelajahi dan mendaftar kursus, melakukan pembayaran dengan verifikasi admin, mengakses materi, memberi ulasan, serta mengunduh sertifikat PDF.",
-    img: "/assets/dist/Portfolio/KUBI.png",
+    img: "/assets/portfolio/KUBI.png",
     tech: ["Laravel", "Tailwind CSS", "MySQL"],
     role: "",
     repo: "https://github.com/Bayu75/Kursus-Hobi",
@@ -20,7 +20,7 @@ const projects = [
   {
     title: "SIPILSAKU",
     desc: "Platform e-learning dan toko e-book untuk Teknik Sipil dengan katalog kursus video, checkout via WhatsApp, dan panel admin. Berkontribusi dalam slicing halaman Kursus, Tentang Kami, dan FAQ.",
-    img: "/assets/dist/Portfolio/7-sipilsaku.png",
+    img: "/assets/portfolio/7-sipilsaku.png",
     tech: ["Javascript", "Laravel", "Tailwind CSS", "MySQL"],
     role: "Frontend Developer",
     repo: "https://github.com/chandraputra06/sipilsaku",
@@ -29,7 +29,7 @@ const projects = [
   {
     title: "Website Cuaca",
     desc: "Aplikasi web untuk menampilkan cuaca terkini suatu kota secara real-time, meliputi suhu, kelembapan, dan kecepatan angin, menggunakan OpenWeatherMap API.",
-    img: "/assets/dist/Portfolio/3-web-cloud.png",
+    img: "/assets/portfolio/3-web-cloud.png",
     tech: ["Javascript", "API"],
     role: "",
     repo: "https://github.com/Bayu75/Website-Cuaca",
@@ -38,7 +38,7 @@ const projects = [
   {
     title: "Pencarian Anime",
     desc: "Aplikasi web pencarian judul anime yang menampilkan poster dan judul secara dinamis menggunakan Jikan API (MyAnimeList).",
-    img: "/assets/dist/Portfolio/6-pencarian-anime.png",
+    img: "/assets/portfolio/6-pencarian-anime.png",
     tech: ["Tailwind CSS", "Javascript", "API"],
     role: "",
     repo: "https://github.com/Bayu75/Pencarian-Anime",
