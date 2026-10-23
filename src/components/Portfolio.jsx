@@ -2,7 +2,7 @@ const projects = [
   {
     title: "SIERA",
     desc: "Sistem informasi pengajuan surat akademik berbasis web untuk Program Studi Informatika dengan alur verifikasi bertingkat (Mahasiswa, Admin TU, Kaprodi), pelacakan status, notifikasi, serta laporan dalam format PDF.",
-    img: "/assets/ortfolio/SIERA.png",
+    img: "/assets/portfolio/SIERA.png",
     tech: ["Laravel", "Tailwind CSS", "MySQL", "DomPDF"],
     role: "",
     repo: "https://github.com/Bayu75/Sistem-Informasi-E-Surat-Informatika",
