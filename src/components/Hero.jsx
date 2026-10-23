@@ -8,7 +8,7 @@ const Hero = () => {
               <h2 className="text-lg text-slate-800 font-medium mb-4 pt-1 lg:text-xl">Mahasiswa Informatika</h2>
               <p className="font-medium text-slate-500 mb-8 leading-relaxed"> Dengan informatika mari kembangkan teknologi demi dunia yang lebih baik.</p>
               <div className="flex flex-wrap gap-3 ">
-                <a href="/assets/cv/CV-Bayu.pdf" target="_blank" className="flex gap-2 text-base font-semibold bg-primary px-8 py-3 rounded-full text-white hover:shadow-lg hover:opacity-70 transition duration-100 ease-in-out">Unduh CV <svg xmlns="http://www.w3.org/2000/svg" width="20px" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none" /><path fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 15V3m0 12l-4-4m4 4l4-4M2 17l.621 2.485A2 2 0 0 0 4.561 21h14.877a2 2 0 0 0 1.94-1.515L22 17" /></svg></a>
+                <a href="/assets/cv/CV.pdf" target="_blank" className="flex gap-2 text-base font-semibold bg-primary px-8 py-3 rounded-full text-white hover:shadow-lg hover:opacity-70 transition duration-100 ease-in-out">Unduh CV <svg xmlns="http://www.w3.org/2000/svg" width="20px" viewBox="0 0 24 24"><path d="M0 0h24v24H0z" fill="none" /><path fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 15V3m0 12l-4-4m4 4l4-4M2 17l.621 2.485A2 2 0 0 0 4.561 21h14.877a2 2 0 0 0 1.94-1.515L22 17" /></svg></a>
                 <a href="#contact" className="text-base font-semibold bg-primary px-8 py-3 rounded-full text-white hover:shadow-lg hover:opacity-70 transition duration-100 ease-in-out">Hubungi saya</a>
               </div>
             </div>
